@@ -45,6 +45,12 @@ body {
   height: 305px;
   max-width: 100%;
   object-fit: cover;
+  border-radius: 5px;
+}
+
+.img_personagens img:hover {
+
+  height: 315px;
 }
 
 a {
@@ -52,7 +58,12 @@ a {
   text-align: center;
   font-weight: 600;
   font-size: 1.6rem;
+  color: rgb(26, 26, 26);
+    
+}
+
+div p {
+  background-color: rgba(0, 0, 0, 0.692);
   color: white;
-  border: 1px 1px 1px black;
-  
+  border-radius: 5px;
 }

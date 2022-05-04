@@ -1,14 +1,14 @@
 function rota (){
   let escolha = 0
   while(escolha == 0) {
-    escolha=(prompt("Escolha sua rota \n 1 ou 2"))
+   escolha=(prompt("Escolha sua rota \n 1 ou 2"))
    Number(escolha)
     if(escolha == 1){
-      window.location.href=("../html/ExTuneis4.html")
+      window.location.href=("../html/gameOverAndarilho.html")
       
     }
     else if(escolha == 2){
-      window.location.href=("../html/gameOver3.html")
+      window.location.href=("")
     }
 
     else{
