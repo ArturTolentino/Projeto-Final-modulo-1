@@ -1,5 +1,5 @@
 body {
-  background-image: url(/imagens/galera.jpeg);  
+  background-image: url(/imagens/explorando1.jpg);  
   height: 100vh;
   background-size: cover;  
   background-repeat: no-repeat;
@@ -16,19 +16,4 @@ header {
   border-radius: 15px;
   text-align: center;
   color: white;
-  font-family: 'Courier New', Courier, monospace;
-}
-
-section {
-  display: flex;
-  gap: 10rem;
-}
-
-.escolha{
-  background-color: rgba(0, 0, 0, 0.774);
- display: flex;
- gap: 10rem;
- padding: 15px 15px;
- border-radius: 15px;
- color: white;
 }

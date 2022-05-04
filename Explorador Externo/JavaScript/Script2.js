@@ -17,6 +17,5 @@ function rota (){
     }
 
   }
-  Number(escolha)
 }
 rota()

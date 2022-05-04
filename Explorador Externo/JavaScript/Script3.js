@@ -4,11 +4,11 @@ function rota (){
    escolha=(prompt("Escolha sua rota \n 1 ou 2"))
    Number(escolha)
     if(escolha == 1){
-      window.location.href=("../html/gameOver1.html")
+      window.location.href=("../html/ExExterno4.html")
       
     }
     else if(escolha == 2){
-      window.location.href=("../html/ExTuneis2.html")
+      window.location.href=("../html/gameOver3.html")
     }
 
     else{
