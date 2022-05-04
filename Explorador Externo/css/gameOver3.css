@@ -5,7 +5,7 @@ body {
   background-repeat: no-repeat;
 }
 
-header {
+header h1 {
   background-color: rgba(0, 0, 0, 0.685);
   padding: 1rem;
   border-radius: 15px;
