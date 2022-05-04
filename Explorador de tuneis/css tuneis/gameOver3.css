@@ -1,5 +1,5 @@
 body {
-  background-image: url(/imagens/);  
+  background-image: url(/imagens/gameover3.jpg);  
   height: 100vh;
   background-size: cover;  
   background-repeat: no-repeat;
@@ -22,3 +22,4 @@ a {
   background-color: rgba(0, 0, 0, 0.589);
   border-radius: 15px;
 }
+
