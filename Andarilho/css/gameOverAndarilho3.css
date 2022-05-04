@@ -1,0 +1,24 @@
+body {
+  background-image: url(/imagens/gameovervida.jpg);  
+  height: 100vh;
+  background-size: cover;  
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.685);
+  padding: 1rem;
+  border-radius: 15px;
+  text-align: center;
+  color: white;
+}
+
+a {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.589);
+  border-radius: 15px;
+}

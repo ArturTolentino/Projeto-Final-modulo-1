@@ -4,7 +4,7 @@ function rota (){
     escolha=(prompt("Escolha sua rota \n 1 ou 2"))
    Number(escolha)
     if(escolha == 1){
-      window.location.href=("../html/gameOver1.html")
+      window.location.href=("../html/gameOver2.html")
       
     }
     else if(escolha == 2){
@@ -18,4 +18,8 @@ function rota (){
 
   }
 }
-rota()
+
+const botao = document.querySelector("#botao")
+botao.addEventListener("click", ()=>{
+  rota()
+})

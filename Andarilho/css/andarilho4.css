@@ -1,0 +1,34 @@
+body {
+  background-image: url(/imagens/world1.jpg);  
+  height: 100vh;
+  background-size: cover;  
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20rem;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.685);
+  padding: 1rem;
+  border-radius: 15px;
+  text-align: center;
+  color: white;
+}
+
+section {
+  display: flex;
+  gap: 10rem;
+}
+
+.escolha{
+  background-color: rgba(0, 0, 0, 0.774);
+ display: flex;
+ gap: 10rem;
+ padding: 15px 15px;
+ border-radius: 15px;
+ color: white;
+}
+
