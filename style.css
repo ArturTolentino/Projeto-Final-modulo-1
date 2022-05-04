@@ -1,6 +1,12 @@
+@font-face {
+  font-family: 'Metro';
+  src: url(fonts/Metro.otf);
+}
+
 *{
   margin: 0;
   padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -39,4 +45,14 @@ body {
   height: 305px;
   max-width: 100%;
   object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.6rem;
+  color: white;
+  border: 1px 1px 1px black;
+  
 }
