@@ -1,5 +1,5 @@
 body {
-  background-image: url(/imagens/enemy.jpg);  
+  background-image: url(../../imagens/enemy.jpg);  
   height: 100vh;
   background-size: cover;  
   background-repeat: no-repeat;

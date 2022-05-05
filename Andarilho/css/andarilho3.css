@@ -1,5 +1,5 @@
 body {
-  background-image: url(/imagens/woman.jpeg);  
+  background-image: url(../../imagens/woman.jpeg);  
   height: 100vh;
   background-size: cover;  
   background-repeat: no-repeat;
